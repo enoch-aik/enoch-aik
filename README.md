@@ -40,6 +40,8 @@ My name is Enoch, I am Software Developer with interest in Mobile-app developmen
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=enoch-aik&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
 
 <br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enoch-aik&show_icons=true&locale=en&layout=compact" alt="enoch-aik" /></p>
+<br>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=enoch-aik&theme=prussian&show_icons=true&count_private=true&hide_border=true)" />
     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=enoch-aik&theme=prussian&hide_border=true" />
