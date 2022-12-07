@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **enoch-aik/enoch-aik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hi there! 👋 
 <br>
-My name is Enoch, I am Software Developer with interest in Mobile-app development and Web3 technologies</h2>
+My name is Enoch, I am Software Engineer with interest in Mobile-app development and Web3 technologies</h2>
 
 
 <h2 align="center">Languages and Tools:</h2>
