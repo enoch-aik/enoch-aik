@@ -4,7 +4,7 @@
 
 
 I am Software Engineer currently based
-in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Sweden</b> with over 5 years of
+in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Sweden</b> with
 experience in Mobile-app development. I also have interest in AI and Web3 technologies.</h2>
 
 <h3>Where to find me</h3>
